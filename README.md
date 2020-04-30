@@ -15,7 +15,8 @@ My personal goal with this course, being able to read JavaScript code as I read 
 
 The whole course is about making a todo list.
 
-Each topic walks you through how to do that with the key concept of JavaScript. With these learnings, I tried to cross-interpret from JavaScript to verbal English and vice-versa.
+Each topic walks you through how to do that with the key concept of JavaScript.
+With these learnings, I tried to cross-interpret from JavaScript to verbal English and vice-versa.
 
 In every section of topics, I add a short conclusion 'Speaking JavaScript,' which is the interpretation (mostly from the instructor Gordon) of JavaScript concepts in verbal language. (e.i `function` > recipe)
 
