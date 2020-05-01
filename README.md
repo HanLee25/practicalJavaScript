@@ -20,6 +20,6 @@ With these learnings, I tried to cross-interpret from JavaScript to verbal Engli
 
 In every section of topics, I add a short conclusion 'Speaking JavaScript,' which is the interpretation (mostly from the instructor Gordon) of JavaScript concepts in verbal language. (e.i `function` > recipe)
 
-* [Introduction](https://github.com/HanLee25/freeCodeCampJavaScript/tree/master/Topics/Introduction)
-* [Version 1 Arrays](https://github.com/HanLee25/freeCodeCampJavaScript/tree/master/Topics/Version%201%20Arrays)
-* [Version 2 Functions](https://github.com/HanLee25/freeCodeCampJavaScript/tree/master/Topics/Version%202%20Functions)
+* [Introduction](https://github.com/HanLee25/practicalJavaScript/tree/master/Topics/Introduction)
+* [Version 1 Arrays](https://github.com/HanLee25/practicalJavaScript/tree/master/Topics/Version%201%20Arrays)
+* [Version 2 Functions](https://github.com/HanLee25/practicalJavaScript/tree/master/Topics/Version%202%20Functions)
